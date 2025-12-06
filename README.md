@@ -66,10 +66,10 @@ These datasets were stored under a tag named 'control group' to evaluate the opt
 
 | Crack ID | Crack Type | Density  |
 |----------|------------|----------|
-| control1  | Longitudinal | ultra |
-| control2  | Transverse   | ultra | 
-| control3  | Transverse   | ultra | 
-| control4  | Transverse   | ultra | 
+| SYSU001  | Longitudinal | ultra |
+| SYSU002  | Transverse   | ultra | 
+| SYSU004  | Transverse   | ultra | 
+| SYSU005  | Transverse   | ultra | 
 
 
 ## Usage Instructions
